@@ -1,5 +1,5 @@
 =================================
- pySerial  |build-status| |docs|
+ pySerial  |build-status| |docs| i add
 =================================
 
 Overview
